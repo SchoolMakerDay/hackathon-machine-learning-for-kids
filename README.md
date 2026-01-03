@@ -1,5 +1,5 @@
 # hackathon-machine-learning-for-kids
-Materiale di preparazione per l'hackathon SMD 2026 - Secondaria di I grado 
+<b>Materiale di preparazione per l'hackathon SMD 2026 - Secondaria di I grado </b>
 
 Questo repository propone alcuni esempi di sviluppo di progetti sulla piattaforma "Machine Learning for Kids".<br>
 La piattaforma consente lo sviluppo di giochi realizzati con una versione modificata di Scratch dotata di un estensione di addestramento deò computer al riconoscimento mediante intelligenza artificiale.<br>
